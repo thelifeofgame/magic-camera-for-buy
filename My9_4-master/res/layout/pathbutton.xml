@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pathbutton"
+    android:layout_width="20dp"
+    android:layout_height="wrap_content" 
+     android:layout_centerVertical="true" 
+     android:layout_alignParentEnd="true"
+     android:orientation="vertical">
+    <com.example.myPathbutton.composerLayout
+        android:id="@+id/test"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content" 
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true" 
+    ></com.example.myPathbutton.composerLayout>
+
+</RelativeLayout>

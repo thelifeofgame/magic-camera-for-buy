@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="lib" path="android-support-v4.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="/OpenCV Library - 2.4.11/bin/opencv library - 2.4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/workspace/5206_05/libs/commons-math3-3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/android_file/envirment/nineoldandroids-2.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/android_file/envirment/库/android-support-v7-appcompat.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/core-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/android_file/envirment/库/support/v7/recyclerview/libs/android-support-v7-recyclerview.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
